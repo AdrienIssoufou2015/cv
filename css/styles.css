@@ -1,0 +1,102 @@
+@import url('http://fonts.googleapis.com/css?family=Dancing+Script');
+
+body {
+  background-color: #f7e0a3;
+  font-family: Dancing Script;
+  font-size: 25px;
+}
+header {
+  text-align: center;
+}
+#cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+#aboutme {
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: justify;
+}
+#education {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+#volunteering {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#skills {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 8px;
+  width: 8%;
+}
+h1 {
+  color: #f09c60;
+  text-align: center;
+}
+h3 {
+  color: #f09c60;
+  text-align: center;
+}
+h4 {
+  color: #f09c60;
+  text-align: center;
+}
+h5 {
+  color: #f09c60;
+  text-align: center;
+}
+p {
+  color: brown;
+}
+li {
+  color: brown;
+}
+a {
+  color: #f58b54;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover {
+  opacity: 0.7;
+}
+table {
+  color: brown;
+}
+progress {
+  border: none;
+  width: 100px;
+  height: 10px;
+  background-color: #f09c60;
+}
+progress {
+  color: #f58b54;
+}
+progress::-webkit-progress-bar {
+  background-color:
+    white;
+  width: 100%;
+}
+progress::-moz-progress-bar {
+  background-color: white;
+  width: 100%;
+}
+progress::-webkit-progress-value {
+  background: #f58b54;
+}
+progress::-moz-progress-bar {
+  background: #f58b54;
+}
+footer {
+  background-color: brown;
+  height: 100px;
+}
